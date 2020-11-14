@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ValuteSite2/static/css/main.a4089e07.chunk.css",
+    "main.js": "/ValuteSite2/static/js/main.ecd1a5b9.chunk.js",
+    "main.js.map": "/ValuteSite2/static/js/main.ecd1a5b9.chunk.js.map",
+    "runtime-main.js": "/ValuteSite2/static/js/runtime-main.322ba3ae.js",
+    "runtime-main.js.map": "/ValuteSite2/static/js/runtime-main.322ba3ae.js.map",
+    "static/js/2.20d431fe.chunk.js": "/ValuteSite2/static/js/2.20d431fe.chunk.js",
+    "static/js/2.20d431fe.chunk.js.map": "/ValuteSite2/static/js/2.20d431fe.chunk.js.map",
+    "index.html": "/ValuteSite2/index.html",
+    "static/css/main.a4089e07.chunk.css.map": "/ValuteSite2/static/css/main.a4089e07.chunk.css.map",
+    "static/js/2.20d431fe.chunk.js.LICENSE.txt": "/ValuteSite2/static/js/2.20d431fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.322ba3ae.js",
+    "static/js/2.20d431fe.chunk.js",
+    "static/css/main.a4089e07.chunk.css",
+    "static/js/main.ecd1a5b9.chunk.js"
+  ]
+}
